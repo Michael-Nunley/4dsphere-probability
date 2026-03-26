@@ -7,7 +7,7 @@ In this video, https://www.youtube.com/watch?v=fsLh-NYhOoU , Grant invites the a
 
 <video src='https://github.com/Michael-Nunley/4dsphere-probability/raw/refs/heads/main/media/3b1b.mp4' width=180/></video>
 
-With 15 threads, running one million times each, I got a decent result. It took a while though. This could be optimized, but why bother? This is not a useful thing to calculate in this way.
+With 15 threads, running one billion times each, I got a decent result. It took a while though. This could be optimized, but why bother? This is not a useful thing to calculate in this way.
 ```
 $ rustup run stable cargo run
    Compiling probability4d v0.1.0
